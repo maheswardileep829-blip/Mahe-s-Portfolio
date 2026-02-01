@@ -1,35 +1,57 @@
-# Budget Calculator 💰
+# Hey, I'm Maheswar! 👋
 
-A simple Python budget calculator I built while learning programming.
+## 🎯 About Me
 
-## Features
-- Calculate total savings from income and expenses
-- Determine savings rate percentage
-- Provide financial advice based on savings rate
-- Clean, user-friendly interface
+High school student passionate about **AI × Economics** — building tools that make economic analysis accessible to everyone.
 
-## What I Learned
-- Python fundamentals (variables, functions, operators)
-- User input handling
-- Conditional logic (if/else statements)
-- String formatting with f-strings
-- Basic financial calculations
+I'm learning Python, machine learning, and data science to create real-world applications at the intersection of technology and finance.
 
-## How to Use
-```python
-python budget_calculator.py
-```
+**Goal:** Stanford University Class of 2033
 
-Enter your monthly income and expenses, and the program will:
-- Show your total savings
-- Calculate your savings rate
-- Give personalized financial advice
+## 🔨 What I'm Building
 
-## Tech Stack
-- Python 3.14.2
+- 📊 **Economic analysis tools** using Python and data visualization
+- 🤖 **Machine learning models** for financial prediction
+- 💰 **Finance calculators** and budget trackers
+- 📈 **Data-driven applications** for economic research
+
+## 🌱 Currently Learning
+
+- Python fundamentals & data structures
+- Data science with pandas, NumPy, matplotlib
+- Machine learning algorithms
+- Financial markets & economic theory
+
+## 💻 Tech Stack
+
+**Languages:** Python  
+**Libraries:** matplotlib (learning pandas, scikit-learn next)  
+**Tools:** Git, GitHub, VS Code  
+**Focus:** Data analysis, visualization, ML
+
+## 📚 Projects
+
+Check out my repositories to see what I'm building:
+- Budget calculators
+- Linear equation solvers with graphing
+- Stock analysis tools (coming soon)
+- Economic data visualizers (coming soon)
+
+## 📊 2026 Goals
+
+- [ ] Master Python fundamentals
+- [ ] Build 10+ data science projects
+- [ ] Learn machine learning basics
+- [ ] Create first AI-powered economic tool
+- [ ] Start technical blog
+
+## 📫 Let's Connect
+
+Building in public and documenting my journey from beginner to builder.
+
+**Currently:** Week 1 of my coding journey (Feb 2026)  
+**Next milestone:** First stock analysis dashboard
 
 ---
 
-**Built:** February 2026  
-**Part of:** My journey learning Python for AI × Economics  
-**Next project:** Todo List with data persistence
+*"From 1:45 hours of screen time to building tools that matter."*
