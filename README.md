@@ -51,3 +51,42 @@ Building in public and documenting my journey from beginner to builder.
 
 **Currently:** Week 1 of my coding journey (Feb 2026)  
 **Next milestone:** First stock analysis dashboard
+---
+
+## 🚀 How to Run My Projects
+
+### Prerequisites
+```bash
+# Install Python 3.14.2 from python.org
+# Install matplotlib
+pip install matplotlib
+```
+
+### Budget Calculator
+```bash
+python budget_calculator.py
+```
+Enter your income and expenses to get savings analysis.
+
+### Linear Equation Calculator
+```bash
+python linear_calc.py
+```
+Enter slope (m) and y-intercept (b) to get calculations and graph.
+
+---
+
+## 📈 Progress Tracker
+
+**Week 1 (Feb 2026):**
+- ✅ Python fundamentals learned
+- ✅ Built budget calculator
+- ✅ Built linear equation solver
+- ✅ GitHub portfolio created
+- 🔄 Building todo list next
+
+**This Month Goals:**
+- [ ] Master Python data structures
+- [ ] Build 4 more projects
+- [ ] Start finance book #1
+- [ ] Join Key Club
