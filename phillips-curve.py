@@ -25,4 +25,5 @@ plt.scatter(df["Unemployment"],  df ["Inflation"])
 plt.title("Unemployment vs Inflation (Phillips Curve)")
 plt.xlabel("Unemployment Rate (%)")
 plt.ylabel("Inflation Rate (%)")
+
 plt.show()
